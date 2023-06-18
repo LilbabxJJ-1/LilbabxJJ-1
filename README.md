@@ -2,7 +2,7 @@
 
 ## I'm Jade, Welcome to my profile!
 
-I am a 17 year old trangender 🏳️‍⚧️ programmer that has been self-taught and use python as my main tool! Check out my projects
+#### I am a 17 year old trangender 🏳️‍⚧️ programmer that has been self-taught and use python as my main tool! Check out my top project!
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
 
