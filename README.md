@@ -5,6 +5,7 @@
 I am a 17 year old trangender 🏳️‍⚧️ programmer that has been self-taught and use python as my main tool! Check out my projects
 
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
+
 [![CharmCord](https://github-readme-stats.vercel.app/api/pin/?username=LilbabxJJ-1&repo=CharmCord&theme=tokyonight&hide_border=true&border_radius=6&icon_color=ffa8fb)](https://github.com/LilbabxJJ-1/CharmCord)
 
 <div align=left>
