@@ -1,5 +1,5 @@
 <div align=center>
-
+  
 [![Titile](https://readme-typing-svg.demolab.com/?lines=Hiya,+I'm+Jade;Check+out+CharmCord;I+program+in+Python)](https://git.io/typing-svg)
 
 #### I am a 17 year old trangender 🏳️‍⚧️ programmer that has been self-taught and use python as my main tool!!
