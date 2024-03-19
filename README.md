@@ -1,6 +1,6 @@
 <div align=center>
   
-[![Titile](https://readme-typing-svg.demolab.com/?lines=Hiya,+I'm+Jade;Check+out+CharmCord;I'm+learning+Python+Cpp+and+Kotlin)](https://git.io/typing-svg)
+[![Titile](https://readme-typing-svg.demolab.com/?lines=Hiya,+I'm+Jade;Check+out+CharmCord;I'm+learning+Python,+Cpp+and+Kotlin)](https://git.io/typing-svg)
 
 #### I am a 18 year old trangender 🏳️‍⚧️ programmer that has been self-taught and use python as my main tool!!
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
