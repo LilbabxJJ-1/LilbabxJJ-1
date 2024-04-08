@@ -18,5 +18,6 @@
 ## My Stats
   
 ![Hey](https://github-readme-stats.vercel.app/api?username=LilbabxJJ-1&theme=tokyonight)![There](https://streak-stats.demolab.com/?user=LilbabxJJ-1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LilbabxJJ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilbabxJJ-1&layout=compact)
 <div align=left>
